@@ -3,7 +3,7 @@
 Sovol SV06 Plus 3d printer is the larger version of Sovol SV06 but with some new upgrades. Its large 300x300x340mm build volume meets all your 3D printing needs, also it comes with some new upgrade. It comes with a new sovol self-developed high flow all metal hotend, the bigger melt zone and traffic make it capable to print at 150mm/s as standard printing speed. Added touch screen, it looks more fashion and technical. Besides, it  has the 450 watt PSU, filament sensor, spinnable spool holder. Welcome to check more on sovol3d.com.
 # Related tutorials 
 
-- User Manual. [Click here](https://drive.google.com/file/d/1bJmc2MeOSmn5svG3CuQQvvp3vNMjcOrR/view)
+- User Manual. [Click here](https://drive.google.com/file/d/1U6MkhUjK9qDcQGiZ_wa8pnW5I2pY7Hf6/view)
 - Sovol Tech Support Youtube Channel: https://www.youtube.com/@sovoltechsupport/videos 
 # Learn more
 
